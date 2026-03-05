@@ -8,8 +8,8 @@ from ui.gradio_ui import create_ui
 if __name__ == "__main__":
     app = create_ui()
     app.launch(
-        server_name="127.0.0.1",  
-        server_port=8080,         
+        server_name="0.0.0.0", # Docker için şart
+        server_port=7860,      # Docker varsayılan portu
         share=False,
         show_error=True,
         theme=gr.themes.Soft(),
