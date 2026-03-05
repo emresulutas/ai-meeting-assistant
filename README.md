@@ -11,7 +11,7 @@ pinned: false
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/emresulutas/ai-meeting-assistant)
 
-A multi-agent AI application that automatically generates Turkish transcripts, meeting minutes, and task lists from audio files. Built with Google Gemini 1.5 Flash and Gradio.
+A multi-agent AI application that automatically generates Turkish transcripts, meeting minutes, and task lists from audio files. Built with Google Gemini 2.5 Flash and Gradio.
 
 ---
 
@@ -57,7 +57,7 @@ python app.py
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/emresulutas/ai-meeting-assistant)
 
-Ses dosyalarından otomatik olarak Türkçe transkript, toplantı tutanağı ve görev listesi üreten çok ajanlı bir yapay zeka uygulaması. Google Gemini 1.5 Flash ve Gradio tabanlıdır.
+Ses dosyalarından otomatik olarak Türkçe transkript, toplantı tutanağı ve görev listesi üreten çok ajanlı bir yapay zeka uygulaması. Google Gemini 2.5 Flash ve Gradio tabanlıdır.
 
 ---
 
