@@ -1,3 +1,12 @@
+---
+title: AI Meeting Assistant
+emoji: 🎙️
+colorFrom: indigo
+colorTo: cyan
+sdk: docker
+app_port: 7860
+pinned: false
+---
 # AI Meeting Assistant
 
 Ses dosyalarından otomatik olarak Türkçe transkript, toplantı tutanağı ve görev listesi üreten çok ajanlı bir yapay zeka uygulaması. Google Gemini 1.5 Flash ve Gradio tabanlıdır.
