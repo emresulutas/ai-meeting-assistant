@@ -1,0 +1,29 @@
+# --- Mevcut Python Standartları ---
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+outputs/
+*.md.tmp
+
+# --- Eklenmesi Gerekenler ---
+
+# Claude yerel yapılandırma/bellek klasörü (Bunu sorduğun için ekledik)
+.claude/
+CLAUDE.MD/
+
+# İşletim Sistemi Gereksiz Dosyaları
+.DS_Store
+Thumbs.db
+
+# Editör/IDE Ayarları (Kendi kişisel ayarların gitmesin diye)
+.vscode/
+.idea/
